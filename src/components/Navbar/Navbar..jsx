@@ -13,7 +13,7 @@ function Navbar() {
       setauth(true);
       setvari("Logout");
      }else{
-      setauth(false);
+      // setauth(false);
       setvari("Login");
      }
   }
