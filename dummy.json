@@ -1,0 +1,322 @@
+{
+    "jobPostings": {
+        "513197ed30040316a9393d2e": {
+            "company": {
+                "companyId": 21836,
+                "companyName": "CyberCoders"
+            },
+            "jobTitle": "Ruby on Rails Engineer - PostgreSQL, MongoDB, Redis, HTML, CSS",
+            "location": {
+                "latitude": -118.404471,
+                "longitude": 33.978622
+            },
+            "skills": [
+                "mongodb"
+            ],
+            "formattedAddress": "12181 W. Bluff Creek Dr. Suite 1E, Playa Vista, CA, United States"
+        },
+        "513197ee30040316a9393d2f": {
+            "company": {
+                "companyId": 0,
+                "companyName": "Unicommerce eSolutions Pvt. Ltd. "
+            },
+            "jobTitle": "Senior/Java Developer (Java/J2EE, Web services)",
+            "location": {
+                "latitude": 77.31330199999999,
+                "longitude": 28.584569
+            },
+            "skills": [
+                "java"
+            ],
+            "formattedAddress": "Lower Ground Floor, B-85, Sector 2, Noida, Uttar Pradesh, India"
+        },
+        "513197f430040316a9393d30": {
+            "company": {
+                "companyId": 488966,
+                "companyName": "Inventum"
+            },
+            "jobTitle": "Java Team Lead",
+            "location": {
+                "latitude": 77.410934,
+                "longitude": 28.5332598
+            },
+            "skills": [
+                "java"
+            ],
+            "formattedAddress": "Inventum Technologies Private Limited, C-70, Phase 2 Extension, NOIDA, Uttar Pradesh 201305, India"
+        },
+        "513197f430040316a9393d31": {
+            "company": {
+                "companyId": 4764,
+                "companyName": "BlackRock"
+            },
+            "jobTitle": "VP - Portfolio Mangement Tool(Java Technology)(Looking for only IIT,NIT,REC)",
+            "location": {
+                "latitude": 77.08594100000001,
+                "longitude": 28.51123
+            },
+            "skills": [
+                "java"
+            ],
+            "formattedAddress": "187, Phase I, Udyog Vihar, Gurgaon, Haryana, India, Udyog Vihar I, India"
+        },
+        "513197f430040316a9393d32": {
+            "company": {
+                "companyId": 32745,
+                "companyName": "SapientNitro"
+            },
+            "jobTitle": "Specialist Infrastructure – (Build and Release)",
+            "location": {
+                "latitude": 77.070722,
+                "longitude": 28.509578
+            },
+            "skills": [
+                "must have"
+            ],
+            "formattedAddress": "Unitech Infospace, Ground Floor, Tower A, Building 2, Sector 21, Dundahera, Gurgaon, Haryana, India"
+        },
+        "513197f430040316a9393d33": {
+            "company": {
+                "companyId": 103683,
+                "companyName": "Burns Sheehan"
+            },
+            "jobTitle": "Javascript Developer",
+            "location": {
+                "latitude": -0.087268,
+                "longitude": 51.511592
+            },
+            "skills": [
+                "node.js"
+            ],
+            "formattedAddress": "75 King William Street, London, United Kingdom"
+        },
+        "513197f430040316a9393d34": {
+            "company": {
+                "companyId": 21836,
+                "companyName": "CyberCoders"
+            },
+            "jobTitle": "JavaScript Developer - JavaScript, Backbone.js, Node.js, HTML5",
+            "location": {
+                "latitude": -96.79497600000001,
+                "longitude": 33.018308
+            },
+            "skills": [
+                "node.js"
+            ],
+            "formattedAddress": "Suite 400, 1400 Preston Road, Plano, TX, United States"
+        },
+        "513197f430040316a9393d35": {
+            "company": {
+                "companyId": 21836,
+                "companyName": "CyberCoders"
+            },
+            "jobTitle": "Ruby on Rails Engineer - PostgreSQL, MongoDB, Redis, HTML, CSS",
+            "location": {
+                "latitude": -118.404471,
+                "longitude": 33.978622
+            },
+            "skills": [
+                "mongodb"
+            ],
+            "formattedAddress": "12181 W. Bluff Creek Dr. Suite 1E, Playa Vista, CA, United States"
+        },
+        "513197f430040316a9393d36": {
+            "company": {
+                "companyId": 0,
+                "companyName": "Unicommerce eSolutions Pvt. Ltd."
+            },
+            "jobTitle": "Senior/Java Developer (Java/J2EE, Web services)",
+            "location": {
+                "latitude": 77.31330199999999,
+                "longitude": 28.584569
+            },
+            "skills": [
+                "java"
+            ],
+            "formattedAddress": "Lower Ground Floor, B-85, Sector 2, Noida, Uttar Pradesh, India"
+        },
+        "513197f430040316a9393d37": {
+            "company": {
+                "companyId": 488966,
+                "companyName": "Inventum"
+            },
+            "jobTitle": "Java Team Lead",
+            "location": {
+                "latitude": 77.410934,
+                "longitude": 28.5332598
+            },
+            "skills": [
+                "java"
+            ],
+            "formattedAddress": "Inventum Technologies Private Limited, C-70, Phase 2 Extension, NOIDA, Uttar Pradesh 201305, India"
+        },
+        "513197f430040316a9393d38": {
+            "company": {
+                "companyId": 4764,
+                "companyName": "BlackRock"
+            },
+            "jobTitle": "VP - Portfolio Mangement Tool(Java Technology)(Looking for only IIT,NIT,REC)",
+            "location": {
+                "latitude": 77.08594100000001,
+                "longitude": 28.51123
+            },
+            "skills": [
+                "java"
+            ],
+            "formattedAddress": "187, Phase I, Udyog Vihar, Gurgaon, Haryana, India, Udyog Vihar I, India"
+        },
+        "513197f430040316a9393d39": {
+            "company": {
+                "companyId": 32745,
+                "companyName": "SapientNitro"
+            },
+            "jobTitle": "Specialist Infrastructure – (Build and Release)",
+            "location": {
+                "latitude": 77.070722,
+                "longitude": 28.509578
+            },
+            "skills": [
+                "must have"
+            ],
+            "formattedAddress": "Unitech Infospace, Ground Floor, Tower A, Building 2, Sector 21, Dundahera, Gurgaon, Haryana, India"
+        },
+        "513197f430040316a9393d3a": {
+            "company": {
+                "companyId": 103683,
+                "companyName": "Burns Sheehan"
+            },
+            "jobTitle": "Javascript Developer",
+            "location": {
+                "latitude": -0.087268,
+                "longitude": 51.511592
+            },
+            "skills": [
+                "node.js"
+            ],
+            "formattedAddress": "75 King William Street, London, United Kingdom"
+        },
+        "513197f430040316a9393d3b": {
+            "company": {
+                "companyId": 21836,
+                "companyName": "CyberCoders"
+            },
+            "jobTitle": "Ruby on Rails Engineer - PostgreSQL, MongoDB, Redis, HTML, CSS",
+            "location": {
+                "latitude": -118.404471,
+                "longitude": 33.978622
+            },
+            "skills": [
+                "mongodb"
+            ],
+            "formattedAddress": "12181 W. Bluff Creek Dr. Suite 1E, Playa Vista, CA, United States"
+        },
+        "513197f430040316a9393d3c": {
+            "company": {
+                "companyId": 974238,
+                "companyName": "Sapient Global Markets"
+            },
+            "jobTitle": "Manager Technology Java",
+            "location": {
+                "latitude": 77.070722,
+                "longitude": 28.509578
+            },
+            "skills": [
+                "core java",
+                "java - spring framework",
+                "j2ee",
+                "java - orm",
+                "java - swing applet",
+                "java - web presentation frameworks",
+                "java - messaging implementation",
+                "java web services",
+                "sql development languages",
+                "enterprise architecture planning (reap)",
+                "planning/ execution & tracking",
+                "scoping and estimating",
+                "data modeling",
+                "high availability and failover applications",
+                "high throughput / transaction application",
+                "logical architecture design",
+                "ooad and uml",
+                "package / vendor selection",
+                "performance / capacity planning"
+            ],
+            "formattedAddress": "Unitech Infospace, Ground Floor, Tower A, Building 2, Sector 21, Dundahera, Gurgaon, Haryana, India"
+        },
+        "513197f430040316a9393d3d": {
+            "company": {
+                "companyId": 0,
+                "companyName": "Unicommerce eSolutions Pvt. Ltd."
+            },
+            "jobTitle": "Senior/Java Developer (Java/J2EE, Web services)",
+            "location": {
+                "latitude": 77.31330199999999,
+                "longitude": 28.584569
+            },
+            "skills": [
+                "java"
+            ],
+            "formattedAddress": "Lower Ground Floor, B-85, Sector 2, Noida, Uttar Pradesh, India"
+        },
+        "513197f430040316a9393d3e": {
+            "company": {
+                "companyId": 488966,
+                "companyName": "Inventum"
+            },
+            "jobTitle": "Java Team Lead",
+            "location": {
+                "latitude": 77.410934,
+                "longitude": 28.5332598
+            },
+            "skills": [
+                "java"
+            ],
+            "formattedAddress": "Inventum Technologies Private Limited, C-70, Phase 2 Extension, NOIDA, Uttar Pradesh 201305, India"
+        },
+        "513197f430040316a9393d3f": {
+            "company": {
+                "companyId": 4764,
+                "companyName": "BlackRock"
+            },
+            "jobTitle": "VP - Portfolio Mangement Tool(Java Technology)(Looking for only IIT,NIT,REC)",
+            "location": {
+                "latitude": 77.08594100000001,
+                "longitude": 28.51123
+            },
+            "skills": [
+                "java"
+            ],
+            "formattedAddress": "187, Phase I, Udyog Vihar, Gurgaon, Haryana, India, Udyog Vihar I, India"
+        },
+        "513197f430040316a9393d40": {
+            "company": {
+                "companyId": 32745,
+                "companyName": "SapientNitro"
+            },
+            "jobTitle": "Specialist Infrastructure – (Build and Release)",
+            "location": {
+                "latitude": 77.070722,
+                "longitude": 28.509578
+            },
+            "skills": [
+                "must have"
+            ],
+            "formattedAddress": "Unitech Infospace, Ground Floor, Tower A, Building 2, Sector 21, Dundahera, Gurgaon, Haryana, India"
+        },
+        "513197f430040316a9393d41": {
+            "company": {
+                "companyId": 2751,
+                "companyName": "Expedia"
+            },
+            "jobTitle": "Sr SDE - Senior Ruby Software Engineer",
+            "location": {
+                "latitude": 77.064564,
+                "longitude": 28.464956
+            },
+            "skills": [
+                "ruby"
+            ],
+            "formattedAddress": "Sector 29, Gurgaon, Delhi, India"
+        }
+    }
+}
