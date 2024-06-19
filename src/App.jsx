@@ -1,7 +1,7 @@
-import Navbar from "./components/Navbar/Navbar."
-import Header from "./components/Header/Header"
-import SearchBar from "./components/SearchBar/SearchBar"
-import JobCard from "./components/jobcard/JobCard"
+import Navbar from "./components/Navbar/Navbar..jsx"
+import Header from "./components/Header/Header.jsx"
+import SearchBar from "./components/SearchBar/SearchBar.jsx"
+import JobCard from "./components/jobcard/JobCard.jsx"
 import { useEffect, useState } from "react"
 import {
   BrowserRouter as Router,

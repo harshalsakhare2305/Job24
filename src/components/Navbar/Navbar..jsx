@@ -24,7 +24,7 @@ function Navbar() {
          w-full ' >
             <li className='mx-4 hover:text-green-400'><Link to='/app'>Search</Link></li>
           <li className='mx-4 hover:text-green-400'>Admin Portal</li>
-        <li className='mx-4 hover:text-green-400'>Company</li> 
+        <li className='mx-4 hover:text-green-400'><Link to ="/company">Company</Link></li> 
         <li className='mx-4  hover:text-green-400'>Contact Us</li>
         <li className='mx-4  hover:text-green-400'><Link to="/login" onClick={authlogin}>Login</Link></li>
 
