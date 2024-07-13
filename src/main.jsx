@@ -18,19 +18,15 @@ import MicroSoft from './components/Companies/MicroSoft.jsx';
 import Walmart from './components/Companies/Walmart.jsx';
 import Adobe from './components/Companies/Adobe.jsx';
 import Atlasein from './components/Companies/Atlasein.jsx';
+import Company from './components/Companies/Company.jsx';
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-     <GoogleOAuthProvider clientId="<345031804783-j1echir139npkplk88r3ktijoghagdqs.apps.googleusercontent.com>">
-    <Router>
-      <Navbar />
-       <Routes>
-        <Route exact path="/app" element={ <App />} />
-        <Route exact path="/login" element={<Login/>}/>
-        <Route exact path="/company" element={<Atlasein/>}/>
-       </Routes>
-      </Router>
-      </GoogleOAuthProvider>;
+   <Router>
+     <App/>
+   </Router>
+      
+     
 
   </React.StrictMode>,
 )

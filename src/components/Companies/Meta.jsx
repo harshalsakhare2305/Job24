@@ -1,70 +1,70 @@
 import { React} from 'react';
 import { Link } from 'react-router-dom';
-import GSlogo from '../Assets/logogoogle.png'
+import GSlogo from '../Assets/meta.png'
 const data = [
     {
-        state: "Destroying Asteroids",
-        link: "https://leetcode.com/problems/destroying-asteroids/description/"
+        state: "Largest Divisible Subset",
+        link: "https://leetcode.com/problems/largest-divisible-subset/"
     },
     {
-        state: "Find the City With the Smallest Number of Neighbors at a Threshold Distance",
-        link: "https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/description/"
+        state: "Find Subsequence of Length K With the Largest Sum",
+        link: "https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/description/"
     },
     {
-        state: "Integer to English Words",
-        link: "https://leetcode.com/problems/integer-to-english-words/"
+        state: " Amount of Time for Binary Tree to Be Infected",
+        link: "https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/description/?envType=daily-question&envId=2024-01-10"
     },
     {
-        state: "Repeated DNA Sequences",
-        link: "https://leetcode.com/problems/repeated-dna-sequences/description/"
+        state: " K-diff Pairs in an Array",
+        link: "https://leetcode.com/problems/k-diff-pairs-in-an-array/description/"
     },
     {
-        state: " Stone Game VI",
-        link: "https://leetcode.com/problems/stone-game-vi/"
+        state: "Count the Number of Square-Free Subsets",
+        link: "https://leetcode.com/problems/count-the-number-of-square-free-subsets/description/"
     },
     {
-        state: "Merge k Sorted Lists",
-        link: "https://leetcode.com/problems/merge-k-sorted-lists/description/"
+        state: " Rotate Function",
+        link: "https://leetcode.com/problems/rotate-function/description/"
     },
     {
-        state:  "Maximum Product After K Increments",
-        link: "https://leetcode.com/problems/maximum-product-after-k-increments/description/"
+        state:  " Get Equal Substrings Within Budget",
+        link: "https://leetcode.com/problems/get-equal-substrings-within-budget/description/"
     },
     {
-        state: "Russian doll envelopes",
-        link: "https://leetcode.com/problems/russian-doll-envelopes/"
+        state: "Friends Of Appropriate Ages",
+        link: "https://leetcode.com/problems/friends-of-appropriate-ages/description/"
     },
     {
-        state: "Query Kth Smallest Trimmed Number",
-        link: "https://leetcode.com/problems/query-kth-smallest-trimmed-number/description/"
+        state: "Maximum Length of Repeated Subarray",
+        link: "https://leetcode.com/problems/maximum-length-of-repeated-subarray/description/"
     },
     {
-        state: "Map of Highest Peak",
-        link: "https://leetcode.com/problems/count-subtrees-with-max-distance-between-cities/description/"
+        state: "Verify Preorder Serialization of a Binary Tree",
+        link: "https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/description/"
     },
     {
-        state:  "Count Subtrees With Max Distance Between Cities",
-        link: "https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/description/"
+        state:  "Battleships in a Board",
+        link: "https://leetcode.com/problems/battleships-in-a-board/description/"
     },
     {
-        state: "Minimum Number of Days to Disconnect Island",
-        link: "https://leetcode.com/problems/minimum-number-of-days-to-disconnect-island/description/"
+        state: "Word Break",
+        link: "https://leetcode.com/problems/word-break/"
     },
     {
-        state: "Ways to reach a position after K steps",
-        link: "https://leetcode.com/problems/number-of-ways-to-reach-a-position-after-exactly-k-steps/"
+        state: "Extra Characters in a String",
+        link: "https://leetcode.com/problems/extra-characters-in-a-string/description/"
     }
 ];
 
 
-const Google= () => {
+const Walmart= () => {
   
 
     return (
         <div className="p-4">
             <div className="bg-yellow-300 rounded-md shadow-md">
-                <div className="flex justify-between  p-4 border-b">
-                    <h2 className="text-lg font-bold hover:text-blue-400"><a href="https://www.google.com/about/careers/applications/" target='blank'>Google</a></h2>
+                <div className="flex justify-between p-4 border-b">
+                    <h2 className="text-lg font-bold hover:text-blue-400"><a href="https://www.metacareers.com/"target='balnk'>Meta</a></h2>
                     <h4 className='text-lg font-bold hover:text-blue-400'><Link to='/company'>Back</Link></h4>
                 </div>
                 <div>
@@ -93,7 +93,7 @@ const Google= () => {
                                 <span className="bg-yellow-100 text-yellow-600 py-1 px-3 rounded-full">Medium</span>
                                 <button className="text-black">+ Note</button>
                                 <div className="flex space-x-2">
-                                    <img src={GSlogo} alt="Goldman Sachs" className="h-6 w-6" />
+                                    <img src={GSlogo} alt="Goldman Sachs" className="h-6 w-8" />
                                     
                                 </div>
                             </div>
@@ -108,4 +108,4 @@ const Google= () => {
 
 }
 
-export default Google;
+export default Walmart;

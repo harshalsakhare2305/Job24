@@ -63,8 +63,9 @@ const Adobe= () => {
     return (
         <div className="p-4">
             <div className="bg-yellow-300 rounded-md shadow-md">
-                <div className="p-4 border-b">
+                <div className="flex justify-between p-4 border-b">
                     <h2 className="text-lg font-bold hover:text-blue-400"><a href="https://www.adobe.com/careers.html" target='blank'>Adobe</a></h2>
+                    <h4 className='text-lg font-bold hover:text-blue-400'><Link to='/company'>Back</Link></h4>
                 </div>
                 <div>
                     {data.map((item, index) => (

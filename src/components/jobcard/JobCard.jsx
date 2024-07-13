@@ -13,7 +13,7 @@ function JobCard(props) {
                 <p>{props.type} &#x2022; {props.experience} &#x2022; {props.location}</p>
                 <div className='flex items-center gap-2'>
                     {props.skill.map((skill,i) => (
-                        <p key={i} className='text-gray-500 py-1 px-2 rounded-md border border-black'>{skill}</p>
+                        <p key={i} className='text-gray-500 py-1 px-2 rounded-md border border-black hover:bg-green-300 hover:text-black'>{skill}</p>
                     ))}
                 </div>
             </div>
