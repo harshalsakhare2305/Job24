@@ -81,7 +81,7 @@ const Google= () => {
                                     sel.style.background=e.target.value;
                                     sel.style.color=black;
                                 }} className=" text-black py-1 px-3 rounded-full">
-                                    <option value="rgb(254 249 195)" selected>Pending</option>
+                                    <option value="rgb(254 249 195)" defaultValue="Pending">Pending</option>
                                     <option value="rgb(120 217 120)">Done</option>
                                     <option value="#ffa8a8">Revisit</option>
                                 </select>

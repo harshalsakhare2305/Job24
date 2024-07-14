@@ -1,6 +1,7 @@
 import { React} from 'react';
 import { Link } from 'react-router-dom';
 import GSlogo from '../Assets/Apple.png'
+import { MdPending } from 'react-icons/md';
 const data = [
     {
         state: "Minimize the Maximum of Two Arrays",
@@ -81,7 +82,7 @@ const Apple = () => {
                                     sel.style.background=e.target.value;
                                     sel.style.color=black;
                                 }} className=" text-black py-1 px-3 rounded-full">
-                                    <option value="rgb(254 249 195)" selected>Pending</option>
+                                    <option value="rgb(254 249 195)"defaultValue="Pending" >Pending</option>
                                     <option value="rgb(120 217 120)">Done</option>
                                     <option value="#ffa8a8">Revisit</option>
                                 </select>
