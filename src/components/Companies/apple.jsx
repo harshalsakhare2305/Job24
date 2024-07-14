@@ -1,7 +1,7 @@
 import { React} from 'react';
 import { Link } from 'react-router-dom';
 import GSlogo from '../Assets/Apple.png'
-import { MdPending } from 'react-icons/md';
+
 const data = [
     {
         state: "Minimize the Maximum of Two Arrays",
