@@ -3,6 +3,7 @@ import { Link, useNavigate } from 'react-router-dom';
 import { getAuth, signOut } from 'firebase/auth';
 import { app } from '../../../firebaseConfig';
 import userimg from '../Assets/user.png'
+import logo from '../Assets/logo.png'
 
 import Profile from '../Login/Profile';
 
@@ -16,7 +17,8 @@ function Navbar({ user, setuser, newuser, setnewuser }) {
   return (
     <>
       <div className='h-20 flex fixed top-0 left-0 right-0 items-center w-full bg-blue-950 text-white z-10'>
-        <div className='text-3xl pl-20 font-bold'>Job24</div>
+        <img src={logo} alt=""  className='w-8 h-8 ml-16 rounded-sm'/>
+        <div className='text-3xl pl-2 font-bold'>Job24</div>
         <ul className='flex flex-row justify-end text-xl mx-5 w-full'>
           <li className='mx-4 hover:text-green-400'><Link to='/'>Home</Link></li>
           <li className='mx-4 hover:text-green-400'><Link to='/search'>Search</Link></li>
