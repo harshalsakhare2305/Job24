@@ -28,7 +28,7 @@ import Admin from "./components/Admin/Admin.jsx"
 import Skills from "./components/Admin/Skills.jsx"
 import Amazon from "./components/Companies/Amazon.jsx";
 import Meta from './components/Companies/Meta.jsx'
-import Apple from './components/Companies/apple.jsx'
+import Apple from './components/Companies/Apple.jsx'
 
 
 function App() {

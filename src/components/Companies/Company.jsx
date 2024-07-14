@@ -152,7 +152,7 @@ function Company() {
             </svg>
             <span className="ml-2 text-sm font-medium">Trusted by 54,820 </span>
           </div>
-          <button className="mt-4 bg-pink-500 hover:bg-pink-700 text-white font-bold py-2 px-4 rounded-full"><Link to='/company/walmart'></Link>Start now</button>
+          <button className="mt-4 bg-pink-500 hover:bg-pink-700 text-white font-bold py-2 px-4 rounded-full"><Link to='/company/walmart'>Start now</Link></button>
         </div>
 
         <div className="bg-blue-100 rounded-lg shadow-md p-6 text-center">
