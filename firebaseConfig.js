@@ -7,13 +7,13 @@ import { getDatabase } from "firebase/database";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyBHEUDB9eyVo4JdtIJyj_Pyb-7nPp5eyTs",
-  authDomain: "job24-ae151.firebaseapp.com",
-  databaseurl:"https://job24-ae151-default-rtdb.firebaseio.com/",
-  projectId: "job24-ae151",
-  storageBucket: "job24-ae151.appspot.com",
-  messagingSenderId: "486228837636",
-  appId: "1:486228837636:web:db00dad08cf18b3d853c51"
+  apiKey: "AIzaSyAvD159eoLrqBEcg7R_7QGHDZizZq-p4DU",
+  authDomain: "job24n-98c42.firebaseapp.com",
+  databaseURL: "https://job24n-98c42-default-rtdb.firebaseio.com",
+  projectId: "job24n-98c42",
+  storageBucket: "job24n-98c42.appspot.com",
+  messagingSenderId: "542624439895",
+  appId: "1:542624439895:web:d8d90db45619de8bbe8d12"
 };
 
 // Initialize Firebase
