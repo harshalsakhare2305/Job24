@@ -60,7 +60,7 @@ function App() {
         <Route exact path="/company/Atlasein" element={<Atlasein/>}/>
         <Route exact path="/company/GoldmanSacs" element={<GoldmanSacs/>} />
         <Route exact path="/company/walmart" element={<Walmart/>}/>
-        <Route exact path="/company/apple" element={<Apple/>}/>
+     
         
        </Routes>
       
